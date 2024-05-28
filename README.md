@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Verma</h1>
-<h3 align="center">"i am software Engineer  with 2+years in Tech , passionate in Frontend  and i am cureently learning and working on Web development"</h3>
+<h3 align="center">"i am software Engineer  with 2+years in Tech , passionate in Frontend  and i am currently learning and working on Web development"</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaniverma1998&label=Profile%20views&color=0e75b6&style=flat" alt="shivaniverma1998" /> </p>
 
  
