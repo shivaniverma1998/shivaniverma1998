@@ -4,7 +4,6 @@
 
  
 
- <!-- <p align="left"> <a href="https://twitter.com/priyankashah317" target="blank"><img src="https://img.shields.io/twitter/follow/priyankashah317?logo=twitter&style=for-the-badge" alt="priyankashah317" /></a> </p> -->
 
 - 🌱 I’m currently learning **web Development and Trying to be consistent on LeetCode**
 
